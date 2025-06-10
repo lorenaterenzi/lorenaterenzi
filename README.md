@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lorena.
-- 👀 I’m interested in games, coding and front-end.
-- 🌱 I’m currently learning HTML, CSS and JavaScript.
+- 👀 I’m interested in games, coding and software development.
+- 🌱 I’m currently learning JavaScript, C#, ReactJs and how to develop API's.
 - 💞️ I’m looking to collaborate on beginner projects.
 
   <div>
