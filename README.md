@@ -5,10 +5,10 @@
 ---
 
 ### About Me
-- 💻 Associate Degree in **Internet Systems**.
-- 🎓 Postgraduate student in **Artificial Intelligence and MLOps**[cite: 1].
-- 💻 Focused on Software Development, Web & Mobile applications[cite: 1].
-- 🎮 I have a strong interest in **Game Development** and **Cybersecurity**, areas which I plan to delve into during my career.
+-  Associate Degree in **Internet Systems**.
+-  Postgraduate student in **Artificial Intelligence and MLOps**[cite: 1].
+-  Focused on Software Development, Web & Mobile applications[cite: 1].
+-  I have a strong interest in **Game Development** and **Cybersecurity**, areas which I plan to delve into during my career.
 
 ---
 
@@ -30,4 +30,4 @@
 ### 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-profile-here)
 
-  ![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+![Snake animation](https://github.com/lorenaterenzi/lorenaterenzi/blob/output/github-contribution-grid-snake.svg)
