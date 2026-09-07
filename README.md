@@ -1,16 +1,33 @@
-- 👋 Hi, I’m Lorena.
-- 👀 I’m interested in games, coding and software development.
-- 🌱 I’m currently learning JavaScript, C#, ReactJs and how to develop API's.
-- 💞️ I’m looking to collaborate on beginner projects.
+# 👋 Hi, I'm Lorena Terenzi
 
-  <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenaterenzi&layout=compact&langs_count=6&theme=midnight-purple"/>
-  </div>
-  
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  </div>
+**Full-Stack Software Developer** | Passionate about coding and building applications.
 
- ![Snake animation](https://github.com/lorenaterenzi/lorenaterenzi/blob/output/github-contribution-grid-snake.svg)
+---
+
+### About Me
+- 💻 Associate Degree in **Internet Systems**.
+- 🎓 Postgraduate student in **Artificial Intelligence and MLOps**[cite: 1].
+- 💻 Focused on Software Development, Web & Mobile applications[cite: 1].
+- 🎮 I have a strong interest in **Game Development** and **Cybersecurity**, areas which I plan to delve into during my career.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Languages & Frontend:**
+- **Frontend & Mobile:** JavaScript | React.js | React Native (Expo) | HTML5 / CSS3[cite: 1]
+
+**Backend & Testing:**
+- **Backend:** C# | .NET / ASP.NET Core | RESTful APIs[cite: 1]
+- **Testing & Quality:** Python | pytest | Hypothesis[cite: 1]
+
+**Databases & Tools:**
+- **Databases:** SQL Server[cite: 1]
+- **Dev Tools:** Git & GitHub | Postman / Swagger | GitHub Projects (Kanban/Scrum)[cite: 1]
+
+---
+
+### 📫 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile-here)
+
+  ![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
